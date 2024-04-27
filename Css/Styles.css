@@ -1,0 +1,25 @@
+img{
+    width: 200px; height: 200px;
+}
+
+header{
+    background-color: goldenrod;
+}
+
+.navegacion{
+    font-size: 30px;
+}
+
+main{
+    background-color: red;
+}
+
+footer{
+    background-color: green;
+
+}
+
+section{
+    background-color: blue;
+    color: white;
+}
